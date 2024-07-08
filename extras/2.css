@@ -1,7 +1,7 @@
 #playlist, audio{
   background:#167;
   width:800px;
-  padding:60px;
+  padding:20px;
   list-style: none;
   font-family: Arial, Helvetica, sans-serif;
   bolder: 400;
@@ -11,7 +11,7 @@
 #playlist, audio thead tr { display: block; }
 
 #playlist, audio tbody {
-    height: 400px;
+    height: 800px;
     overflow-y: auto;
     overflow-x: scroll;
 
